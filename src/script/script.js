@@ -61,7 +61,7 @@ function testPar() {
             round++;
             roundTag.innerHTML = round;
             encontrados = 0;
-            
+
 
             setTimeout(() => {
                 main.innerHTML = "";
